@@ -8,8 +8,11 @@ This repository contains code for the paper:
 
 ## TODO
 
-- [ ] Push main code components
+WIP: The repository is being updated. Current code contains all basic utilities
+
+- [x] Push main code components
 - [ ] Add run scripts for main experiments
+- [ ] Add notebooks for visualization
 - [ ] Update instructions in README
 
 ## Citation
